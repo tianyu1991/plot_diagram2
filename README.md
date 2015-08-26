@@ -34,3 +34,9 @@ plot5
 
 
 ![plot5](https://cloud.githubusercontent.com/assets/8493530/9497863/9e7af47e-4bdc-11e5-81e9-ea5fc1194f64.png)
+
+
+plot6
+
+
+![plot6](https://cloud.githubusercontent.com/assets/8493530/9498235/56f76cf2-4bde-11e5-828c-913f3a9fb6cd.png)
